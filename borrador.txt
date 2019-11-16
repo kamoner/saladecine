@@ -1,0 +1,47 @@
+Reposito gitHubmetodologiasunaj
+taringa930
+nombre de repositorio: saladecine
+
+https://github.com/metodologiasunaj/saladecine
+
+///////
+
+Clases principales
+
+Cliente: dni nombre
+
+reserva 
+variables:_ dni butaca 
+Sala:
+variables:_ butacas, cantidad,
+
+
+Cine:
+variables:_
+
+EntradaReserva
+variables:_
+
+butaca
+variables:_ estado
+
+
+
+Clases secundarias:
+Empleado
+variables:_
+Pelicula:
+variables:_
+Persona
+variables:_
+Producto
+variables:_ codigo,precio, descripcion, stock,stockMinimo
+
+
+/////////////
+
+a quienes va dirigido el sistema?
+
+a clientes que desean reservar su entrada para una funcion determinada en un cine. 
+
+
